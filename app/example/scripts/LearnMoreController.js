@@ -4,4 +4,4 @@ angular
 
     $scope.navbarTitle = "Learn More";
 
-  });
+  });   
